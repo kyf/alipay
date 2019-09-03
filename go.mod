@@ -1,4 +1,4 @@
-module github.com/smartwalle/alipay
+module github.com/kyf/alipay
 
 require github.com/smartwalle/crypto4go v1.0.2
 
